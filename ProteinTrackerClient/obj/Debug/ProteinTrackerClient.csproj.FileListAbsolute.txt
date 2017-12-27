@@ -1,0 +1,9 @@
+c:\users\u748.greenspoonmarde\documents\visual studio 2013\Projects\ProteinTrackerClient\ProteinTrackerClient\bin\Debug\ProteinTrackerClient.exe.config
+c:\users\u748.greenspoonmarde\documents\visual studio 2013\Projects\ProteinTrackerClient\ProteinTrackerClient\bin\Debug\ProteinTrackerClient.exe
+c:\users\u748.greenspoonmarde\documents\visual studio 2013\Projects\ProteinTrackerClient\ProteinTrackerClient\bin\Debug\ProteinTrackerClient.pdb
+c:\users\u748.greenspoonmarde\documents\visual studio 2013\Projects\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.csprojResolveAssemblyReference.cache
+c:\users\u748.greenspoonmarde\documents\visual studio 2013\Projects\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.Properties.Resources.resources
+c:\users\u748.greenspoonmarde\documents\visual studio 2013\Projects\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.ProteinTrackerForm.resources
+c:\users\u748.greenspoonmarde\documents\visual studio 2013\Projects\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.csproj.GenerateResource.Cache
+c:\users\u748.greenspoonmarde\documents\visual studio 2013\Projects\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.exe
+c:\users\u748.greenspoonmarde\documents\visual studio 2013\Projects\ProteinTrackerClient\ProteinTrackerClient\obj\Debug\ProteinTrackerClient.pdb
